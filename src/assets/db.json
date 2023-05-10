@@ -1,22 +1,9 @@
 {
   "cars": [
     {
-      "car_make": "Toyota",
-      "car_model": "Camry",
-      "car_model_year": "2015",
-      "color": "Black",
-      "mileage": "35555",
-      "price": "27150.98",
-      "transmission": "Manual",
-      "fuel_type": "Electric",
-      "condition": "Certified Pre-Owned",
-      "id": 1,
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5w-4w-MyMsdCXNh1tcP_gjDYlhp9L19f1CLD-wAunfOtVVN6R"
-    },
-    {
       "car_make": "Audi",
       "car_model": "A4",
-      "car_model_year": "2015",
+      "car_model_year": "2022",
       "color": "Gray",
       "mileage": "55500",
       "price": "19000.15",
@@ -25,19 +12,6 @@
       "condition": "New",
       "id": 2,
       "image": "https://images.dealersync.com/cloud/userdocumentprod/2077/Photos/141891/wm_c7effa08c4994ccd9c57edac8747cae9_141891.jpg?_=c61eddf53a07f48992a34c0f7ca376dc8b17c583"
-    },
-    {
-      "car_make": "Ford",
-      "car_model": "F-250",
-      "car_model_year": "2018",
-      "color": "Blue",
-      "mileage": "20000",
-      "price": "60000",
-      "transmission": "Automatic",
-      "fuel_type": "Diesel",
-      "condition": "Certified Pre-Owned",
-      "id": 3,
-      "image": "https://media.ed.edmunds-media.com/ford/f-250-super-duty/2018/oem/2018_ford_f-250-super-duty_crew-cab-pickup_lariat_fq_oem_1_600.jpg"
     },
     {
       "car_make": "Chevrolet",
@@ -79,19 +53,6 @@
       "image": "https://images.autotrader.com/hn/c/f84177f6f11a411d89801d838c5e9695.jpg"
     },
     {
-      "car_make": "Mercedes-Benz",
-      "car_model": "E63",
-      "car_model_year": "2014",
-      "color": "Black",
-      "mileage": "75588",
-      "price": "38547.04",
-      "transmission": "Automatic",
-      "fuel_type": "Gasoline",
-      "condition": "Used",
-      "id": 7,
-      "image": "https://images.autotrader.com/hn/c/ad1d2b2886e34669866104e4166cd992.jpg"
-    },
-    {
       "car_make": "BMW",
       "car_model": "M5",
       "car_model_year": "2023",
@@ -105,15 +66,17 @@
       "image": "https://images.autotrader.com/hn/c/67b30dddbcc34776a4e8d29f2b60777b.jpg"
     },
     {
-      "car_model_year": "2021",
-      "car_make": "BMW",
-      "car_model": "M340i",
-      "condition": "Certified Pre-Owned",
-      "mileage": "47398",
-      "price": "41488",
-      "image": "https://images.autotrader.com/hn/c/9c2d681a1003464ca91e101378c9f19f.jpg",
-      "color": "White",
-      "id": 9
+      "car_make": "MK",
+      "car_model": "Goo Goo Buggy",
+      "car_model_year": "2023",
+      "color": "Blue",
+      "mileage": 0,
+      "price": "55000",
+      "transmission": "",
+      "fuel_type": "",
+      "condition": "",
+      "image": "https://i.ytimg.com/vi/X_rV7hwD1wE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYyhRMA8=&rs=AOn4CLAx_LNkecvMgKVNPKFEC_BoiDxYCA",
+      "id": 10
     }
   ]
 }
